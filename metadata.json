@@ -1,0 +1,6 @@
+{
+  "name": "ChemFocus",
+  "description": "Educational platform for undergraduate Chemistry Honours students featuring concept explanations, exam revision, concept comparisons, interactive practice MCQs, and laboratory viva prep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
